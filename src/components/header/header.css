@@ -38,9 +38,9 @@ header {
 
 /* =============== ME ============== */
 .me {
-  background: linear-gradient(var(--color-primary), transparent);
-  width: 22rem;
-  height: 22rem;
+  background: linear-gradient(var(--color-primary));
+  width: 25rem;
+  height: 25rem;
   position: absolute;
   left: 50%;
   transform: translateX(-50%);

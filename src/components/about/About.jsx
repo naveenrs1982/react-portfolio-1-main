@@ -28,19 +28,19 @@ const About = () => {
 
             <article className='about__card'>
               <FiUsers className='about__icon'/>
-              <h5>Peak team size</h5>
-              <small>50+ </small>
+              <h5>Span of control</h5>
+              <small>50 </small>
             </article>
 
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>50+ Completed</small>
             </article>
           </div>
 
           <p>
-          For some time now, I've been working closely with engineers, first as a Developer and System Analyst, then as a Tech Lead and then as Software Development Manager and Senior Development Manager. I have managed software development teams with over 50 people reporting to me
+          For some time now, I've been working closely with engineers, first as a Developer and System Analyst, then as a Tech Lead and then as Software Development Manager and Senior Development Manager. I have managed software development teams with upto 50 people reporting to me
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

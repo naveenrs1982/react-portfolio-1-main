@@ -42,7 +42,7 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Bachelor of Technology(Information Technology)</p>
+              <p>Bachelor's degree(Information Technology and Engineering)</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
