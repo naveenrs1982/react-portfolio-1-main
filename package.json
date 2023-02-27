@@ -1,7 +1,7 @@
 {
   "name": "Naveen's Portfolio",
-  "homepage": "https://www.naveenrs.com",
-  "version": "0.1.0",
+  "homepage": "https://naveenrs.com",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
